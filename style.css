@@ -1,0 +1,32 @@
+.win {
+    background-image: url('img/win.jpg');
+    height: 200px;
+    width: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.lost {
+    background-image: url('img/lost.jfif');
+    height: 200px;
+    width: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.draw {
+    background-image: url('img/pareggio.jpg');
+    height: 200px;
+    width: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#party-div {
+    width: 500px;
+    height: 300px;
+}
+
+.party {
+    background-image: url('img/party.jfif');
+}
